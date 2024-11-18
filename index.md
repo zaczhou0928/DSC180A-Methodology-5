@@ -11,7 +11,7 @@ title: Qianjin Zhou - DSC180A Methodology 5
 
 ---
 
-## Quarter 2 Project Proposal Prompts
+## Questions & Answers
 
 ### **1. What is the most interesting topic covered in your domain this quarter?**
 
